@@ -17,6 +17,7 @@
     "react-router-dom": "^6.2.1",
     "react-scripts": "5.0.0",
     "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.4.1",
     "uuid": "^8.3.2",
     "web-vitals": "^2.1.2"
@@ -26,7 +27,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "jsonServer":"json-server --watch db.json --port 3001"
+    "jsonServer": "json-server --watch db.json --port 3001"
   },
   "eslintConfig": {
     "extends": [
